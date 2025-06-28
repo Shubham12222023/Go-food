@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Go-food/static/css/main.1081b4a9.css",
+    "main.js": "/Go-food/static/js/main.281d004d.js",
+    "index.html": "/Go-food/index.html",
+    "main.1081b4a9.css.map": "/Go-food/static/css/main.1081b4a9.css.map",
+    "main.281d004d.js.map": "/Go-food/static/js/main.281d004d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1081b4a9.css",
+    "static/js/main.281d004d.js"
+  ]
+}
